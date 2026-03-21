@@ -1,16 +1,34 @@
-# elderly
+# Eldery - 在宅高齢者向け生活支援アプリ
 
-A new Flutter project.
+## 概要
+高齢者が日常生活をより安全・快適に過ごせるよう支援するモバイルアプリです。
+複数の生活支援機能を一つに統合し、シンプルで直感的に使えるUIを目指して開発しました。
+ユーザー体験を重視し、誰でも迷わず操作できる設計を意識しています。
 
-## Getting Started
+## 開発背景
+既存のアプリは機能ごとに分かれており、高齢者にとって使いづらいという課題がありました。
+そこで、必要な機能を一つのアプリにまとめ、操作の負担を減らすことを目的として開発しました。
 
-This project is a starting point for a Flutter application.
+## 主な機能
+- タスク管理機能
+- 買い物リスト機能
+- 天気情報表示
+- 音声入力機能
+- 見やすいUI設計
 
-A few resources to get you started if this is your first Flutter project:
+## 使用技術
+- Flutter（Dart）
+- Android Studio
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 工夫した点
+複数機能を統合する際に発生した不具合に対して、原因を切り分けて一つずつ改善しました。
+また、高齢者でも使いやすいように、画面構成や文字サイズ、操作のシンプルさを意識して設計しました。
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 実行方法
+1. Flutter環境を構築
+2. 本リポジトリをclone
+3. flutter pub get
+4. flutter run
+
+## 開発者
+個人開発
