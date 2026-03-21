@@ -1,1 +1,1 @@
-io.flutter.plugins.sharedpreferences
+com.csdcorp.speech_to_text

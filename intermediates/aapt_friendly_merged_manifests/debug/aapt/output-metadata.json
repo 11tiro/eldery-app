@@ -4,7 +4,7 @@
     "type": "AAPT_FRIENDLY_MERGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "io.flutter.plugins.sharedpreferences",
+  "applicationId": "com.csdcorp.speech_to_text",
   "variantName": "debug",
   "elements": [
     {
